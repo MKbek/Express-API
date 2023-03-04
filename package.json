@@ -1,0 +1,23 @@
+{
+  "name": "node-store-api",
+  "version": "1.0.0",
+  "description": "Store REST API in node js use ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "storeapi"
+  ],
+  "author": "Muhammadqodir K.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
